@@ -1,0 +1,11 @@
+summary: Release goes to a farm, not the void. Visit and reclaim any Pokemon you've let go.
+author: (you)
+tags: [gameplay, qol, farm, release, storage]
+differences:
+  - Adds a FARM screen (Start menu and/or PC), following the same pane pattern as box storage.
+  - From your Party or a Box, a new SEND TO FARM action moves a Pokemon into the farm instead of releasing it into nothing.
+  - From the FARM screen, any Pokemon can be reclaimed back to an open Party or Box slot.
+  - Vanilla release is untouched — this is an additive alternative, not a replacement, so nothing breaks if the mod is later disabled.
+credits:
+  - Core loop concept and design: (you)
+  - Built against the confirmed mod-API patterns (screens registry, ui hooks, save.boxes/save.party shape) demonstrated in MadeinTaly's gen3_box.

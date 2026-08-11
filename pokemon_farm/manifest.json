@@ -1,0 +1,16 @@
+{
+  "id": "pokemon_farm",
+  "title": "Pokemon Farm",
+  "author": "(you)",
+  "version": "0.1.0",
+  "categories": ["Gameplay", "QOL"],
+  "summary": "Release goes to a farm, not the void. Visit and reclaim any Pokemon you've let go.",
+  "tags": ["farm", "release", "storage", "gameplay"],
+  "permissions": ["engine_internals"],
+  "api": 2,
+  "profile": "content",
+  "game_version": ">=0.1.37 <2.0.0",
+  "license": "MIT",
+  "automatic_version_check": true,
+  "entry": "main.lua"
+}
