@@ -2,6 +2,7 @@ summary: Release goes to a farm, not the void. Visit and reclaim any Pokemon you
 author: (you)
 tags: [gameplay, qol, farm, release, storage]
 differences:
+  - Adds a real, walkable location: a small field connected to Pallet Town's east edge.
   - Adds a FARM screen (Start menu and/or PC), following the same pane pattern as box storage.
   - From your Party or a Box, a new SEND TO FARM action moves a Pokemon into the farm instead of releasing it into nothing.
   - From the FARM screen, any Pokemon can be reclaimed back to an open Party or Box slot.
